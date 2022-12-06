@@ -142,6 +142,14 @@ body {
     text-decoration: none;
 }
 
+footer {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(29, 27, 27);
+    color: #fff;
+}
+
 @media all and (max-width: 767px){
     .grupo {
         width: 100%;
